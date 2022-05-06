@@ -13,7 +13,7 @@ numero_secreto = random.randint(1, 101)
 tentativas = 5
 rodadas = 1
 
-#cronometro start
+#stopwatch start
 start = time.time()
 #check user input(float,int, string)
 while (rodadas <= tentativas) and True:
