@@ -10,7 +10,6 @@ print("*********************************")
 
 #Variaveis
 numero_secreto = random.randint(1, 101)
-tentativas = 1
 rodadas = 1
 
 #Difficuldade
