@@ -14,7 +14,4 @@ if int(c) == 1:
     else:
         text.png('text.png', scale=6, module_color=[0, 0, 0, 128], background=[0xff, 0xff, 0xcc])
 
-# url = pyqrcode.create(input("Enter a text to transform in a QRCode:"))
-# url.svg("code.svg", scale = 8)
-# print(s.terminal(quiet_zone=1))
-# url.png('code.png', scale=6, module_color=[0, 0, 0, 128], background=[0xff, 0xff, 0xcc])
+
